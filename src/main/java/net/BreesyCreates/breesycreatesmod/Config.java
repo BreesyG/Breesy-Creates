@@ -1,4 +1,4 @@
-package net.BreesyCreates.trial;
+package net.BreesyCreates.breesycreatesmod;
 
 import java.util.List;
 

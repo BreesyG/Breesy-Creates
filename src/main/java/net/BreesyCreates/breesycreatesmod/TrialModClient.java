@@ -1,4 +1,4 @@
-package net.BreesyCreates.trial;
+package net.BreesyCreates.breesycreatesmod;
 
 import net.minecraft.client.Minecraft;
 import net.neoforged.api.distmarker.Dist;
