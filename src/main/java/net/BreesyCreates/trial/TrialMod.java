@@ -18,7 +18,7 @@ import net.neoforged.neoforge.event.server.ServerStartingEvent;
 @Mod(TrialMod.MODID)
 public class TrialMod {
     // Define mod id in a common place for everything to reference
-    public static final String MODID = "breesycreatestrialmod";
+    public static final String MODID = "breesycreatesmod";
     // Directly reference a slf4j logger
     public static final Logger LOGGER = LogUtils.getLogger();
 
